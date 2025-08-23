@@ -1,16 +1,17 @@
-## Info about yeeard
+## Welcome :)
 
-🎓 2nd Year Computer Science student — Digital Artist (Illustrations & Pixel Sprites) 🎨
-**Current Project**
-  ‣ Learning through CS50: Introduction to Python
-  ‣
+🎓 2nd Year Computer Science student — Digital Artist (Illustrations & Pixel Sprites) 🎨  
 
-**Languages:** Python, C++, Java
-  ‣ [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-  ‣ [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-  ‣ [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+**Current Projects**  
+&nbsp;&nbsp;‣ Learning through CS50: Introduction to Python  
+&nbsp;&nbsp;‣ Unity Puzzle Game  
+
+**Coding Languages:**   
+&nbsp;&nbsp;‣  Python &nbsp;[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  
+&nbsp;&nbsp;‣  C++ &nbsp;[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)  
+&nbsp;&nbsp;‣  Java  &nbsp;[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)  
   
 
 
 ## Documenting my progress & growth here on GitHub
-<img src = "https://tenor.com/view/ight-bet-gif-3938946979848060475" width = "900px">
+![tenor](https://github.com/user-attachments/assets/bd1750ef-0378-4bef-b060-944e16e0a74f)
