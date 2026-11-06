@@ -1,6 +1,6 @@
 ## Welcome :)
 
-🎓 2nd Year Computer Science student — Digital Artist (Illustrations & Pixel Sprites) 🎨  
+🎓 3rd Year Computer Science student — Digital Artist (Illustrations & Pixel Sprites) 🎨  
 
 **Current Projects**  
 &nbsp;&nbsp;‣ Learning through CS50: Introduction to Python  
